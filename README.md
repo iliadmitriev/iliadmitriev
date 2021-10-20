@@ -1,7 +1,7 @@
 Hello, I'm Ilia Dmittriev 👋 
 I'm from Moscow, Russia 🇷🇺
 
-I'm a professional fullstack software engineer and leader for more than 15 years.
+I'm a professional fullstack software engineer and leader with more than 15 years of experience.
 
 My personal priorities is web and mobile development.
 Worked my way from software engineer to chief technology officer.
@@ -28,9 +28,9 @@ Have confident skills with RabbitMQ, Kafka, ClickHouse, MySQL, redis, MongoDB, e
 Implemented several iOS applications using swift, storyboard, UIKit, MapKit, AVKit, 3rd parity SDKs and APIs
 
 Contats,
-https://t.me/iliadmitriev
-ilia.dmitriev@gmail.com
-https://www.linkedin.com/in/iliadmitriev
+- [telegram 💬](https://t.me/iliadmitriev)
+- [email 📨](mailto:ilia.dmitriev@gmail.com)
+- [linkedin 🔗](https://www.linkedin.com/in/iliadmitriev)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iliadmitriev&theme=blue-green)
 
