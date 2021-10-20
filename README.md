@@ -1,3 +1,36 @@
+Hello, I'm Ilia Dmittriev 👋 
+I'm from Moscow, Russia 🇷🇺
+
+I'm a professional fullstack software engineer and leader for more than 15 years.
+
+My personal priorities is web and mobile development.
+Worked my way from software engineer to chief technology officer.
+I built IT companies and teams from scratch.
+
+Now I work at position of CTO, in https://unicom24.ru
+
+As an engineer I use for my projects
+* Backend: python 3, aiohttp, Flask, Django, Django Rest Framwork, FastAPI, SQLAlchemy, Marshmallow, Pydantic
+* Frontend: JavaScript (Vue, Vue-Route, Vuex, NuxtJS, Vuetify)
+
+Some of my projects:
+* https://unicom24.ru
+* https://cpa.unicom24.ru
+* https://unicom24.ru/partners3
+
+Also I'm skilled user of Docker, Docker Compose, Kubernetes.
+
+I prefer Postgresql as RDBMS (HA, Patroni, pgBouncer, backups, sync/async stream replications, migrations 9 -> 14, query optimization, CTE, Window Functions, PL/pgSQL, jsonb).
+
+Have confident skills with RabbitMQ, Kafka, ClickHouse, MySQL, redis, MongoDB, elasticsearch
+
+Implemented several iOS applications using swift, storyboard, UIKit, MapKit, AVKit, 3rd parity SDKs and APIs
+
+Contats,
+https://t.me/iliadmitriev
+ilia.dmitriev@gmail.com
+https://www.linkedin.com/in/iliadmitriev
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iliadmitriev&theme=blue-green)
 
 [![Ilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliadmitriev&theme=blue-green)](https://github.com/iliadmitriev)
