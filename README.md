@@ -17,6 +17,7 @@ Some of my projects:
 * https://unicom24.ru
 * https://cpa.unicom24.ru
 * https://unicom24.ru/partners3
+* https://unicom24.ru/agent
 
 Also I'm skilled user of Docker, Docker Compose, Kubernetes.
 
