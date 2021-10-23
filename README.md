@@ -11,7 +11,7 @@ Now I work at position of CTO, in https://unicom24.ru
 
 As an engineer I use for my projects
 * Backend: python 3, aiohttp, Flask, Django, Django Rest Framwork, FastAPI, SQLAlchemy, Marshmallow, Pydantic
-* Frontend: JavaScript (Vue, Vue-Route, Vuex, NuxtJS, Vuetify)
+* Frontend: JavaScript (Vue, Vue-Router, Vuex, NuxtJS, Vuetify)
 
 Some of my projects:
 * https://unicom24.ru
