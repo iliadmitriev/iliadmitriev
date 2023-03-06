@@ -19,7 +19,7 @@ Some of my projects:
 * https://unicom24.ru/partners3
 * https://unicom24.ru/agent
 
-Also I'm skilled user of Docker, Docker Compose, Kubernetes.
+I'm an ideologist of microservices architecture (Docker, Kubernetes)
 
 I prefer Postgresql as RDBMS (HA, Patroni, pgBouncer, backups, sync/async stream replications, migrations 9 -> 14, query optimization, CTE, Window Functions, PL/pgSQL, jsonb).
 
