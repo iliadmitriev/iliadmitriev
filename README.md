@@ -20,6 +20,7 @@ Some of my projects:
 * https://unicom24.ru/agent
 
 I'm an ideologist of microservices architecture (Docker, Kubernetes)
+
 Have confident skills with RabbitMQ, Kafka, ClickHouse, MySQL, redis, MongoDB, elasticsearch
 
 I prefer Postgresql as RDBMS (HA, Patroni, pgBouncer, backups, sync/async stream replications, query optimization, CTE, Window Functions, PL/pgSQL, jsonb).
