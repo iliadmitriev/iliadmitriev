@@ -10,9 +10,10 @@ I built IT companies and teams from scratch.
 Now I work at position of CTO, in https://unicom24.ru
 
 As an engineer I use for my projects
-* Backend: Python3, golang, FastAPI, SQLAlchemy, Pydantic, aiohttp, Django, Django Rest Framwork, Marshmallow
+* Python3 stack: Python3, FastAPI, SQLAlchemy, Pydantic, aiohttp, Django, Django Rest Framwork, Marshmallow
+* Golang stack: go-chi, gin-gonic, godotenv, gofiber, gorm, database/sql, goose, sqlc, golang-migrate, gjson, validator, golang-jwt, slog, mockery, testify
 * Frontend: JS, TS, Vue, Vue-Router, Vuex, NuxtJS, Vuetify, React, Redux, NextJS, Bootstrap, MUI, Webpack
-* ML: tensorflow, pandas, numpy, scikit-learn, matplotlib
+* ML: tensorflow, pandas, numpy, scikit-learn, matplotlib, seaborn
 
 Some of my projects:
 * https://unicom24.ru
