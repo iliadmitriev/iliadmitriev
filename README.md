@@ -34,7 +34,4 @@ Contats,
 - [email 📨](mailto:ilia.dmitriev@gmail.com)
 - [linkedin 🔗](https://www.linkedin.com/in/iliadmitriev)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iliadmitriev&theme=blue-green)
-
-[![Ilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliadmitriev&theme=blue-green)](https://github.com/iliadmitriev)
-
+![](lines-of-code.svg)
