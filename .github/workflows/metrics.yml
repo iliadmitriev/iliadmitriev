@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         env:
-          DEBUG: "true"
+          DEBUG: true
         with:
           filename: lines-of-code.svg
           committer_token: ${{ secrets.METRICS_TOKEN }}
@@ -31,6 +31,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          debug: true
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
