@@ -13,6 +13,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - run: |
+          git config --global user.email "ilia.dmitriev@gmail.com"
+          git config --global user.name "Ilia Dmitriev"
+          git config --global url.https://${{ secrets.METRICS_TOKEN }}@github.com/.insteadOf https://github.com/
+
       - uses: lowlighter/metrics@latest
         env:
           DEBUG: true
