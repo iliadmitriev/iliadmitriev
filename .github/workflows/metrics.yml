@@ -37,6 +37,7 @@ jobs:
 
           # Options
           debug: true
+          debug_print: true
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
