@@ -14,6 +14,8 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        env:
+          DEBUG: "true"
         with:
           filename: lines-of-code.svg
           committer_token: ${{ secrets.METRICS_TOKEN }}
@@ -38,7 +40,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_skipped: iliadmitriev/smart_app_framework, iliadmitriev/DAWG, sqlalchemy/sqlalchemy
-          plugin_languages_ignored: HTML, CSS
+          plugin_languages_ignored: HTML, CSS, Mako, PHP
           plugin_languages_details: percentage, lines
           plugin_languages_indepth: true
           plugin_languages_limit: 8
