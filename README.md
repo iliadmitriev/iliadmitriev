@@ -7,7 +7,7 @@ My personal priorities is web and mobile development.
 Worked my way from software engineer to chief technology officer.
 I built IT companies and teams from scratch.
 
-Now I work at position of CTO, in https://unicom24.ru
+Now I work at position of CTO, at [unicom24.ru](https://unicom24.ru)
 
 As an engineer I use for my projects
 * Python3 stack: Python3, FastAPI, SQLAlchemy, Pydantic, aiohttp, Django, Django Rest Framwork, Marshmallow
