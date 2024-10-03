@@ -13,7 +13,7 @@ As an engineer I use for my projects
 * Python3 stack: Python3, FastAPI, SQLAlchemy, Pydantic, aiohttp, Django, Django Rest Framwork, Marshmallow
 * Golang stack: go-chi, gin-gonic, godotenv, gofiber, gorm, database/sql, goose, sqlc, golang-migrate, gjson, validator, golang-jwt, slog, mockery, testify
 * Frontend: JS, TS, Vue, Vue-Router, Vuex, NuxtJS, Vuetify, React, Redux, NextJS, Bootstrap, MUI, Webpack
-* ML: tensorflow, pandas, numpy, scikit-learn, matplotlib, seaborn
+* ML: pytorch, tensorflow, scikit-learn, numpy, matplotlib, pandas, seaborn
 
 Some of my projects:
 * https://unicom24.ru
