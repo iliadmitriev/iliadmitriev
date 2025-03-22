@@ -44,7 +44,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_categories: data, markup, programming
+          # plugin_languages_categories: data, markup, programming
           plugin_languages_colors: github
           plugin_languages_skipped: iliadmitriev/smart_app_framework, iliadmitriev/DAWG, sqlalchemy/sqlalchemy
           plugin_languages_ignored: HTML, CSS, Mako, PHP
