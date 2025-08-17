@@ -1,37 +1,38 @@
-Hello, I'm Ilia Dmittriev 👋 
-I'm from Moscow, Russia 🇷🇺
+Hello, I'm Ilia Dmitriev 👋
 
-I'm a professional fullstack software engineer and leader with more than 15 years of experience.
+Moscow-based technology leader and full-stack engineer with 15+ years of experience building scalable digital solutions.
 
-My personal priorities is web and mobile development.
-Worked my way from software engineer to chief technology officer.
-I built IT companies and teams from scratch.
+**Career Journey**
 
-Now I work at position of CTO, at [unicom24.ru](https://unicom24.ru)
+From hands-on developer to CTO, I've built IT organizations from the ground up. My expertise spans web/mobile development and microservices architecture, with a track record of establishing high-performing engineering teams. Currently serving as Chief Technology Officer at Unicom24.
 
-As an engineer I use for my projects
-* Python3 stack: Python3, FastAPI, SQLAlchemy, Pydantic, aiohttp, Django, Django Rest Framwork, Marshmallow
-* Golang stack: go-chi, gin-gonic, godotenv, gofiber, gorm, database/sql, goose, sqlc, golang-migrate, gjson, validator, golang-jwt, slog, mockery, testify
-* Frontend: JS, TS, Vue, Vue-Router, Vuex, NuxtJS, Vuetify, React, Redux, NextJS, Bootstrap, MUI, Webpack
-* ML: pytorch, tensorflow, scikit-learn, numpy, matplotlib, pandas, seaborn
+**Technical Proficiencies**
 
-Some of my projects:
-* https://unicom24.ru
-* https://cpa.unicom24.ru
-* https://unicom24.ru/partners3
-* https://unicom24.ru/agent
++ Python: FastAPI, Django, SQLAlchemy, aiohttp
++ Golang: Gin, Chi, GORM, SQLc, Fiber
++ Frontend: Vue/Nuxt, React/Next, TypeScript, Vuetify, MUI
++ Data & ML: PyTorch, TensorFlow, pandas, scikit-learn
++ Infrastructure: Kubernetes, Docker, Kafka, RabbitMQ
++ Databases: PostgreSQL (HA, Patroni, query optimization), ClickHouse, MongoDB, Redis, Elasticsearch
 
-I'm an ideologist of microservices architecture (Docker, Kubernetes)
+**Architecture Philosophy**
 
-Have confident skills with RabbitMQ, Kafka, ClickHouse, MySQL, redis, MongoDB, elasticsearch
+Microservices evangelist with production experience in:
 
-I prefer Postgresql as RDBMS (HA, Patroni, pgBouncer, backups, sync/async stream replications, query optimization, CTE, Window Functions, PL/pgSQL, jsonb).
++ Container orchestration (K8s/Docker)
++ Message brokers (Kafka/RabbitMQ)
++ High-availability database clusters
 
-Implemented several iOS applications using swift, storyboard, UIKit, MapKit, AVKit, 3rd parity SDKs and APIs
+**Key Projects**
 
-Contats,
-- [telegram 💬](https://t.me/iliadmitriev)
-- [email 📨](mailto:ilia.dmitriev@gmail.com)
-- [linkedin 🔗](https://www.linkedin.com/in/iliadmitriev)
++ Unicom24 Platform: unicom24.ru
++ Partner Systems: CPA Portal, Partners
++ Agent Platform: unicom24.ru/agent
 
-![](lines-of-code.svg)
+**Mobile Engineering**
+
+Developed iOS applications using Swift, UIKit, and MapKit with third-party SDK integration.
+
+Connect
+
+[telegram 💬](https://t.me/iliadmitriev) | [email 📨](mailto:ilia.dmitriev@gmail.com) | [linkedin 🔗](https://www.linkedin.com/in/iliadmitriev)
