@@ -36,3 +36,8 @@ Developed iOS applications using Swift, UIKit, and MapKit with third-party SDK i
 Connect
 
 [telegram 💬](https://t.me/iliadmitriev) | [email 📨](mailto:ilia.dmitriev@gmail.com) | [linkedin 🔗](https://www.linkedin.com/in/iliadmitriev)
+
+![](https://raw.githubusercontent.com/iliadmitriev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/iliadmitriev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
